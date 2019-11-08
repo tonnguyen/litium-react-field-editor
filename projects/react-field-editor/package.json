@@ -1,0 +1,9 @@
+{
+  "name": "litium-react-field-editor",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "litium-ui": ">=7",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  }
+}

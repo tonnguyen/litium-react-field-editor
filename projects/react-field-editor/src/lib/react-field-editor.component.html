@@ -1,0 +1,10 @@
+<field-editor [field]="fieldEditor.field">
+    <react-component preview 
+        [component]="previewComponent" 
+        [props]="generateProps(false)">
+    </react-component>
+    <react-component edit #control [id]="fieldEditor.name" 
+        [component]="editComponent" 
+        [props]="generateProps(true)">
+    </react-component>
+</field-editor>
