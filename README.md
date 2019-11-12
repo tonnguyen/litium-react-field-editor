@@ -2,6 +2,4 @@
 
 # LitiumReactFieldEditor
 
-To create Litium custom field in React.
-
-How to use: check [Litium Field type collection](https://github.com/tonnguyen/litium-fieldtype-bag) for the sample React text component
+A component to render Litium custom field in React. [Installation and usage](https://github.com/tonnguyen/litium-react-field-editor/tree/master/projects/react-field-editor)
